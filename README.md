@@ -3,3 +3,7 @@ This is an add-on board for the [Squareatron 5000 v1.1](https://github.com/Orego
 It works by trimming the precision 3.3V supply voltage of the limiting amplifier on the Squareatron 5000.  It provides a tuning range of 3.15-3.45 V without adding significant noise.  The Jupyter notebook included provides a noise model.
 
 A prototype board currently being fabricated and testing will follow.
+
+## Design Files
+
+Design files (schematics, PCB layouts, BOMs) can be found at [Squareatron_DAC_Board/releases](https://github.com/OregonIons/Squareatron_DAC_Board/releases).
